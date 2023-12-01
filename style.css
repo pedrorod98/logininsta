@@ -1,0 +1,25 @@
+body {
+  background-color: #363636;
+  color: 	#ffffff;
+}
+.stong {
+  color: #22D4FD;
+  border: 1px solid #22D4FD;
+  padding: 10px;
+}
+.imagem1 {
+  border-radius: 25px;
+}
+h1{
+  font-weight: bold;
+}
+a {
+  background-color: #22D4FD;
+  width: 320px;
+  padding: 10px;
+  border: 5px solid lightseagreen;
+  margin: 0;
+}
+a:link {
+  text-decoration: none;
+}
